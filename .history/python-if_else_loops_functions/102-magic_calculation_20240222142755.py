@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author - Felix Dusengimana
+# Author - Loraine Irakoze
 
 
 def magic_calculation(a, b, c):
